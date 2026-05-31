@@ -1,0 +1,10 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+
+# System generated artifacts/logs
+artifacts/
+brain/
+scratch/
+.gemini/
