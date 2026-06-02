@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "193420161051",
+    "project_id": "haul-app-b0087",
+    "storage_bucket": "haul-app-b0087.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193420161051:android:22797701c961490ef3c8be",
+        "android_client_info": {
+          "package_name": "rana.haul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193420161051-0npo8nok5dmboja39q826ek4pr4o12f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeO8xNmk3tMN0IUgG6GRmooba78bgb5Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193420161051-0npo8nok5dmboja39q826ek4pr4o12f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193420161051-72df5le66p1g1b092e0hbkk8v5854uui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rana.haul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
